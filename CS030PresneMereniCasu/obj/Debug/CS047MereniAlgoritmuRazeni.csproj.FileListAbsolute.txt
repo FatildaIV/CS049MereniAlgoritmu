@@ -1,0 +1,10 @@
+C:\Users\Honza\Desktop\CS047MereniAlgoritmu\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.exe.config
+C:\Users\Honza\Desktop\CS047MereniAlgoritmu\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.exe
+C:\Users\Honza\Desktop\CS047MereniAlgoritmu\CS030PresneMereniCasu\bin\Debug\CS030PresneMereniCasu.pdb
+C:\Users\Honza\Desktop\CS047MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS047MereniAlgoritmuRazeni.csprojAssemblyReference.cache
+C:\Users\Honza\Desktop\CS047MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS031MereniAlgoritmuProhozeni.MereniAlgoritmuProhozeniForm.resources
+C:\Users\Honza\Desktop\CS047MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.Properties.Resources.resources
+C:\Users\Honza\Desktop\CS047MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS047MereniAlgoritmuRazeni.csproj.GenerateResource.cache
+C:\Users\Honza\Desktop\CS047MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS047MereniAlgoritmuRazeni.csproj.CoreCompileInputs.cache
+C:\Users\Honza\Desktop\CS047MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.exe
+C:\Users\Honza\Desktop\CS047MereniAlgoritmu\CS030PresneMereniCasu\obj\Debug\CS030PresneMereniCasu.pdb
